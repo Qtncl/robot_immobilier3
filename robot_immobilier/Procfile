@@ -1,1 +1,1 @@
-web: python main_robot.py
+python main_robot.py
